@@ -28,6 +28,11 @@ Other, more specialised engagements (based on my background in SRE and specific 
 
 ### Team Engagements
 
+
+<table border=0>
+<tr>
+<td>
+
 Team engagements, by their nature, tend to be quite bespoke. It's often better to work with the team leadership to drive change via their existing relationship with the team.
 
 I am happy to work with pairs of leaders or smaller groups that represent the leadership of a larger team, and facilitate Adult Conversations about change, or other desirable outcomes. I've developed a number of methods and frameworks for team summits, leadership conversations, and other crucial conversations that may be of help; please reach out and we can schedule an exploratory chat.
@@ -35,3 +40,10 @@ I am happy to work with pairs of leaders or smaller groups that represent the le
 I am particularly familiar with teams that work across timezones, and teams that have an operational aspect, be it oncall, incident command or daily operations. I led SRE teams at Google across many timezones (mostly between Dublin and Bay Area, but also NYC, Australia and India).
 
 If you feel like the engagement you'd like might be a little more hands-on (i.e. you'd like to hire me for a while), drop me a line or visit my [consulting website](https://work.andvari.net).
+
+</td>
+<td>
+<img src="/images/undraw_engineering_team.svg">
+</td>
+</tr>
+</table>

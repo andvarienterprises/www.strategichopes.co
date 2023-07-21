@@ -46,7 +46,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: /undraw_creative_thinking.svg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     #clientlogos:
