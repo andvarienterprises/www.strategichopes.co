@@ -134,20 +134,20 @@ params:
         title: "Info"
         links:
         - text: Available Services
-          link: /
+          link: /services
         - text: What is Coaching?
-          link: /
+          link: /info/coachingapproach
         - text: FAQ
-          link: /
+          link: /faq
       column2:
         title: "Services"
         links:
         - text: Management Coaching
-          link: /
+          link: /services/manager
         - text: Tech Leadership Coaching
-          link: /
+          link: /services/tl
         - text: Executive Coaching
-          link: /
+          link: /services/exec
       column3:
         title: "About"
         links:
