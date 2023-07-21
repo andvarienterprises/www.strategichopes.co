@@ -75,7 +75,7 @@ params:
     - title: FAQ
       url: /
   - title: Get in Touch
-    url: "#section5"
+    url: "/#section5"
     button: true
   section1:
     title: Ready for a change?
@@ -113,7 +113,7 @@ params:
       img: 3
   section5:
     title: Get in Touch
-    subtitle: Not sure if Coaching/Mentoring is for you? Drop me a line for a no-obligation chat.
+    subtitle: Drop me a line for a no-obligation chat.
     buttonText: Send Message
     # action: https://formspree.io/f/<form_id>
     # method: POST
