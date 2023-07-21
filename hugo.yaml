@@ -28,7 +28,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: /sh_colour_nobg.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -40,7 +40,7 @@ params:
     # Main hero title
     title: Strategic Hopes
     # Hero subtitle (optional)
-    subtitle: No-Nonsense Coaching and Mentoring for all career stages
+    subtitle: No-Nonsense Coaching and Mentoring for all Technical Career Stages
     # Button text
     buttontext: Learn More
     # Where the main hero button links to
@@ -90,9 +90,9 @@ params:
       text: Small teams to Global orgs, support at all stages
       url: /
       buttonText: More
-    - title: Managing Managers
+    - title: Executive Coaching
       icon: plug-cloud
-      text: 
+      text: Transformational Change for all leaders
       url: /
       buttonText: Get started
   section4:
@@ -119,7 +119,7 @@ params:
     # method: POST
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: /sh_white_nobg.svg
     # Social Media Title
     socialmediatitle: Follow 
     # Social media links (GitHub, Twitter, etc.). All are optional.
