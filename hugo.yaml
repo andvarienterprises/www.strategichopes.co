@@ -1,0 +1,159 @@
+baseURL: http://something-fresh.org/
+languageCode: en-us
+title: Hugo Fresh Theme
+
+module:
+  # uncomment line below for local development of module
+  # workspace: hugo.work
+  imports:
+    path: github.com/StefMa/hugo-fresh
+
+
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/fresh.svg
+    link: /
+    # Default width/height. Uncomment if you need to change
+    # width: 112
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Strategic Hopes
+    # Hero subtitle (optional)
+    subtitle: No-Nonsense Coaching and Mentoring for all career stages
+    # Button text
+    buttontext: Learn More
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+    #clientlogos:
+    #- logo: systek
+    #  url: https://google.com
+    #- logo: tribe
+    #  url: https://stefma.github.io/hugo-fresh/
+    #- logo: kromo
+    #  url: https://github.com/StefMa/hugo-fresh
+    #- logo: infinite
+    #  url: https://hugo-fresh.vercel.app/
+    #- logo: gutwork
+    #  url: https://bulma.io/
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Profile
+    url: /
+  - title: Services
+    url: /
+  - title: Info
+    sublinks:
+    - title: Dave's Coaching Approach
+      url: /
+    - title: What to Expect
+      url: /
+    - title: FAQ
+      url: /
+  - title: Get in Touch
+    url: "#section5"
+    button: true
+  section1:
+    title: Ready for a change?
+    tiles:
+    - title: Management First Steps
+      icon: mouse-globe
+      text: New, developing, or considering the move?
+      url: /
+      buttonText: More
+    - title: Tech Leadership Journey
+      icon: laptop-cloud
+      text: Small teams to Global orgs, support at all stages
+      url: /
+      buttonText: More
+    - title: Managing Managers
+      icon: plug-cloud
+      text: 
+      url: /
+      buttonText: Get started
+  section4:
+    title: ...but don't take my word for it...
+    subtitle: Testimonials from Clients and Co-Workers
+    clients:
+    - name: Peragor the Eldritch
+      quote: Dave helped me do the thing. Now i can do the thing with increasing alacrity.
+      job: Necromancer
+      img: 1
+    - name: Felix Non-Leopard
+      quote: Meow meow Raar hiss hiss
+      job: Face Gourmet
+      img: 2
+    - name: Schmavid O'Schmonnor
+      quote: Nothing Short of Life-changing. 
+      job: Normal Client
+      img: 3
+  section5:
+    title: Get in Touch
+    subtitle: Not sure if Coaching/Mentoring is for you? Drop me a line for a no-obligation chat.
+    buttonText: Send Message
+    # action: https://formspree.io/f/<form_id>
+    # method: POST
+  footer:
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg
+    # Social Media Title
+    socialmediatitle: Follow 
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/gerrowadat
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://twitter.com/gerrowadat
+      icon: twitter
+    - link: https://mastodon.ie/@gerrowadat
+      icon: mastodon
+    quicklinks:
+      column1:
+        title: "Info"
+        links:
+        - text: Available Services
+          link: /
+        - text: What is Coaching?
+          link: /
+        - text: FAQ
+          link: /
+      column2:
+        title: "Services"
+        links:
+        - text: Management Coaching
+          link: /
+        - text: Tech Leadership Coaching
+          link: /
+        - text: Executive Coaching
+          link: /
+      column3:
+        title: "About"
+        links:
+        - text: Dave's Profile
+          link: https://www.andvari.net/
+        - text: Dave's Personal Log
+          link: https://log.andvari.net/
