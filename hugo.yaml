@@ -50,8 +50,6 @@ params:
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     #clientlogos:
-    #- logo: systek
-    #  url: https://google.com
     #- logo: tribe
     #  url: https://stefma.github.io/hugo-fresh/
     #- logo: kromo
@@ -69,7 +67,7 @@ params:
   - title: Info
     sublinks:
     - title: Dave's Coaching Approach
-      url: /
+      url: /info/coachingapproach
     - title: What to Expect
       url: /
     - title: FAQ

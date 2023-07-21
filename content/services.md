@@ -2,6 +2,7 @@
 title: "Services"
 date: 2023-07-21T02:18:16+01:00
 #draft: true
+include_footer: true
 ---
 I provide a hybrid Coaching and Mentoring engagement for Engineering leaders (IC and management) and teams at all levels.
 
