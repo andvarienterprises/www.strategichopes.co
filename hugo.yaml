@@ -97,18 +97,14 @@ params:
     title: ...but don't take my word for it...
     subtitle: Testimonials from Clients and Co-Workers
     clients:
-    - name: Peragor the Eldritch
-      quote: Dave helped me do the thing. Now i can do the thing with increasing alacrity.
-      job: Necromancer
-      img: 1
+    - name: Anonymous
+      quote:  I came to the sessions hoping for some guidance on my professional life and left with a framework to both improve it and my personal life also. Through a number of the conversations, we were able to establish a framework for improving some problem areas which has inspired a confidence I previously didn't know I was lacking. These sessions have provided some of the largest impact, well beyond anything I had hoped for going in, and I couldn’t speak highly enough of how much Dave has helped me.
+      job: Senior SRE, Fortune 50, Dublin
+      img: 3
     - name: Felix Non-Leopard
       quote: Meow meow Raar hiss hiss
       job: Face Gourmet
       img: 2
-    - name: Schmavid O'Schmonnor
-      quote: Nothing Short of Life-changing. 
-      job: Normal Client
-      img: 3
   section5:
     title: Get in Touch
     subtitle: Drop me a line for a no-obligation chat.
