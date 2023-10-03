@@ -99,11 +99,11 @@ params:
     clients:
     - name: Anonymous
       quote:  I came to the sessions hoping for some guidance on my professional life and left with a framework to both improve it and my personal life also. Through a number of the conversations, we were able to establish a framework for improving some problem areas which has inspired a confidence I previously didn't know I was lacking. These sessions have provided some of the largest impact, well beyond anything I had hoped for going in, and I couldn’t speak highly enough of how much Dave has helped me.
-      job: Senior SRE, Fortune 50, Dublin
+      job: Senior SRE, Dublin
       img: 3
-    - name: Felix Non-Leopard
-      quote: Meow meow Raar hiss hiss
-      job: Face Gourmet
+    - name: Anonymous
+      quote: I appreciated the mix of frameworks and more freeform structure that Dave used, it felt like he met me where I was.
+      job: Principal Engineer, Fortune 500 Payments Company, SFO Area
       img: 2
   section5:
     title: Get in Touch
