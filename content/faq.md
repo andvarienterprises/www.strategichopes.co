@@ -8,11 +8,29 @@ If your question isn't answered here, please don't hesistate to get in touch vie
 
 ### What is Coaching? What should I expect?
 
-These are covered in [Dave's Approach to Coaching](/coachingapproach) and [What to Expect](/whattoexpect) - I'm hoping those pages continue to cover most FAQs, so if they seem incomplete to you, please let me know.
+These are covered in [Dave's Coaching Approach](/coachingapproach) and [What to Expect](/whattoexpect) - I'm hoping those pages continue to cover most FAQs, so if they seem incomplete to you, please let me know.
+
+### What Qualifies you to be a Coach?
+
+As I mention in [Dave's Coaching Approach](/coachingapproach), there are no real qualifying attributes to call yourself a coach.
+
+However, I believe the following mean that I'll be an effective coach for many folks who might be interested:
+
+  - 15+ years in management and executive leadership in tech, taking a coaching approach to both.
+  - Qualified with Distinction in Professional Disploma in Coaching and Mentoring with [Kingstown College](https://www.kingstowncollege.ie/).
+  - [ICF](https://www.coachingfederation.org/) and [EMCC](https://www.emccglobal.org/) member.
+    - The above Diploma qualification (or similar) is a pre-requisite for membership.
+    - I am bound by the codes of ethics of both bodies in my practice.
 
 ### Will Coaching help with Career progression?
 
 Probably. Everyone is able to self-motivate or self-direct to an extent, and many do very well for most of their career without specific guidance. However, everyone progresses (toward career success, or happiness, or both) through the intervention of others, be it a leader, a peer, or someone sensible who has your best interests at heart and can provide another perspective. If they can get a little bit into detail and try to keep you honest on really moving toward your goals, so much the better. That is, in essence, what the coaching relationship is. 
+
+### Do I need to be in Ireland?
+
+Not at all! Most of my coaching engagements are managed completely remotely, and I have extensive experience working with odd timezones. If we're setting up sessions, I use [Calendly](https://www.calendly.com/) to manage those, and you can find a time that suits you.
+
+If you do happen to be in Dublin, I am happy to meet in person, either at your office or elsewhere. Somewhere with secure parking for a motorbike and good coffee is a bonus :-)
 
 ### Is it Expensive?
 
