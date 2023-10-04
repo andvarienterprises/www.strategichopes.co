@@ -67,11 +67,11 @@ params:
   - title: Info
     sublinks:
     - title: Dave's Coaching Approach
-      url: /info/coachingapproach
+      url: /coachingapproach
     - title: What to Expect
-      url: /
+      url: /whattoexpect
     - title: FAQ
-      url: /
+      url: /faq
   - title: Get in Touch
     url: "/#section5"
     button: true
