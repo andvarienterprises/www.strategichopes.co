@@ -40,6 +40,16 @@ So, let's put it this way: if you're an individual paying out of pocket (and pay
 
 However, I would expect the amount paid in relation to impact and outcomes to be a rounding error in the People Development budgets of most employers. So, the usual route would be for an employer to sponsor coaching for an employee that needs it. If you need advice on convincing your boss, I have a [1-pager 'brochure'](/files/daveoc-coaching-brochure-v1.0.pdf) that can also serve as a 'convincing your boss or HR department' document.
 
+### Can I arrange coaching for one or more of my employees, and can we figure something out?
+
+Certainly! Most of my clients are via a 'sponsor' employer, who suggest a coach to folks as a means of working on various things. Working with several people within one company or organisation works out well for me also, as I can become appropriately familiar with how the culture of the org can factor into how people think. So, let's chat -- hit the big orange button and find a time.
+
+### If I'm getting coaching via my employer, do you report back to them on what we talk about?
+
+No. The only thing your employer gets is info on when sessions happened for the purposes of billing. This is standard practice for certified coaches, and is very strictly set out in the codes of ethics of [ICF](https://www.coachingfederation.org/) and [EMCC](https://www.emccglobal.org/). Any notes I take or documents I work on with you are stored securely, and can be sent to you (and only you) on request.
+
+The only instance where I'd talk about anything in a client session is if the client indicates that they intend to hurt either themselves or others. At that point I have a duty of care to let someone know.
+
 ### Why 'Strategic Hopes'?
 
 I spent about 17 years as an [SRE](https://sre.google) at Google, our semi-official motto was "hope is not a strategy". I think that's a fine motto for an engineering function that makes sure the latest disaster isn't as disastrous as it could be, due to careful planning and defense in depth.
