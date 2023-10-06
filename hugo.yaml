@@ -64,6 +64,13 @@ params:
     url: https://log.andvari.net/pages/about.html
   - title: Services
     url: /services
+    sublinks:
+    - title: For Managers
+      url: /services/manager
+    - title: For Technical Leaders
+      url: /services/tl
+    - title: For Executives
+      url: /services/exec
   - title: Info
     sublinks:
     - title: Dave's Coaching Approach
@@ -72,6 +79,8 @@ params:
       url: /whattoexpect
     - title: FAQ
       url: /faq
+    - title: Brochure (pdf)
+      url: /files/daveoc-coaching-brochure-v1.0.pdf
   - title: Get in Touch
     url: "/#section5"
     button: true
