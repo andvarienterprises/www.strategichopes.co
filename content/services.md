@@ -6,7 +6,7 @@ include_footer: true
 ---
 I provide a hybrid Coaching and Mentoring engagement for Engineering leaders (IC and management) and teams at all levels.
 
-For more on that this means, see [Dave's Coaching Approach](/info/coachingapproach) and [What to Expect](/info/whattoexpect). There's also a [FAQ](/faq).
+For more on that this means, see [Dave's Coaching Approach](/coachingapproach) and [What to Expect](/whattoexpect). There's also a [FAQ](/faq).
 
 I have over 15 years experience managing, coaching and influencing Technical Leaders, Managers and Executives of all levels, from people new to the tech industry, to CEOs. I maintain a more complete profile on [my personal log](https://log.andvari.net/pages/about.html). My key areas of interest are in development of principled and happy leaders and managers, as well as teams that work well together, often spanning many timezones and points of view.
 
@@ -17,11 +17,9 @@ Some examples of Coaching Engagements I'm available for include:
 
   - [Management Journeys](/services/manager) - For those who are considering going into management, are new to management and developing their style, or are in either situation and aren't sure it's for them.
 
-  - [Technical Leader Development](/services/tl) - Going into Technical Leadership, or developing along that career path can be daunting and fraught with Mandatory Opportunities. Gain some tools and insight into what your own aspirations are, and specific advice on successful leadership by influence.
+  - [Technical Lead/Staff Engineer Development](/services/tl) - Going into Technical Leadership, or developing along that career path can be daunting and fraught with Mandatory Opportunities. Gain some tools and insight into what your own aspirations are, and specific advice on successful leadership by influence.
 
-  - [Staff Engineer Development](/services/tl/staff) - As a technical leader grows, the skills and tools available become either blunter, or sharper in ways that can be surprising. 
-
-  - [Executive Coaching](/services/exec) - I will work with the individual (or their sponsor) to identify where they'd like to develop or grow, and provide coaching toward these goals, as well as specific advice (see my [coaching approach](/info/coachingapproach) page for more).
+  - [Executive Coaching](/services/exec) - I will work with the individual (or their sponsor) to identify where they'd like to develop or grow, and provide coaching toward these goals, as well as specific advice (see my [coaching approach](/coachingapproach) page for more).
 
 Other, more specialised engagements (based on my background in SRE and specific technical knowledge):
 
