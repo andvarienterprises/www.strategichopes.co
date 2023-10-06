@@ -18,6 +18,7 @@ Coaching is a support structure for having a conversation with yourself. What th
  - There's a change you'd like to make, but aren't sure how to get started, or have been avoiding doing it.
  - You're feeling a bit directionless; you're not sure what you want or how to get it.
  - You're dealing with a big change and trying to reconcile it with your values and what you want.
+ - You want to keep yourself honest about the broader development goals you already have.
 
 The list is endless. 
 

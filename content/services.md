@@ -19,14 +19,9 @@ Some examples of Coaching Engagements I'm available for include:
 
   - [Technical Lead/Staff Engineer Development](/services/tl) - Going into Technical Leadership, or developing along that career path can be daunting and fraught with Mandatory Opportunities. Gain some tools and insight into what your own aspirations are, and specific advice on successful leadership by influence.
 
-  - [Executive Coaching](/services/exec) - I will work with the individual (or their sponsor) to identify where they'd like to develop or grow, and provide coaching toward these goals, as well as specific advice (see my [coaching approach](/coachingapproach) page for more).
-
-Other, more specialised engagements (based on my background in SRE and specific technical knowledge):
-
-  - [Cloud/Production Systems Design for Leadership](/services/exec/systems) - An engagement targeted toward managers and execs interested in understanding core reliability concepts and being able to represent reliability effectively a part of their software delivery practice.
+  - [Executive Coaching](/services/exec) - I will work with the individual (and/or their sponsor) to identify where they'd like to develop or grow, and provide coaching toward these goals, as well as specific advice (see my [coaching approach](/coachingapproach) page for more).
 
 ### Team Engagements
-
 
 <table border=0>
 <tr>

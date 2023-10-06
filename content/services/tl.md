@@ -9,9 +9,9 @@ This applies to every kind of leader I talk to, but doubly so for technical lead
 
 For technical leaders, the challenege to be an exemplar while balancing other expectations (including ones you impose on yourself) can easily lead you to stagnation or burnout. Thanksfully, you're not alone! This is a jorney many poeple are on, and I've spoken to a not insignificant number of them :-)
 
-As with any of the engagements around coaching, the conversation is driven by you; we could cover subject such as:
+As with any of the engagements around coaching, the conversation is driven by you; we could cover subjects such as:
 
-  - **Staying Technical**; The right amount of technical, that is. Scratching your hands-on itch while cntinuing to sponsor others.
+  - **Staying Technical**; The right amount of technical, that is. Scratching your hands-on itch while continuing to sponsor others.
   - **Being Giant**; Letting people stand on your shoulders, developing others around you, being comfortable with doing that and tools to maximise these outcomes.
   - **Leveling Up**; Going from a small team TL to a CTO or Technical VP contains several fairly discrete jobs in between. Figure out where you are, where you want to be.
   - **Aiming Accurately**; Knowing what you want to keep on doing, and targeting your career outcomes toward that.

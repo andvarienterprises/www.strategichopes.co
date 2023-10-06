@@ -44,7 +44,7 @@ params:
     # Button text
     buttontext: Learn More
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "/services"
     # Hero image (from static/images/___)
     image: /undraw_creative_thinking.svg
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -81,17 +81,17 @@ params:
     - title: Management First Steps
       icon: mouse-globe
       text: New, developing, or considering the move?
-      url: /
+      url: /services/manager
       buttonText: More
     - title: Tech Leadership Journey
       icon: laptop-cloud
       text: Small teams to Global orgs, support at all stages
-      url: /
+      url: /services/tl
       buttonText: More
     - title: Executive Coaching
       icon: plug-cloud
       text: Transformational Change for all leaders
-      url: /
+      url: /services/exec
       buttonText: Get started
   section4:
     title: ...but don't take my word for it...
