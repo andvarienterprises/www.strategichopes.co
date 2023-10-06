@@ -31,8 +31,8 @@ params:
     image: /sh_colour_nobg.svg
     link: /
     # Default width/height. Uncomment if you need to change
-    # width: 112
-    # height: 28
+    width: 336 # 112
+    height: 84 # 28
   font:
     name: "Open Sans"
     sizes: [400,600]
