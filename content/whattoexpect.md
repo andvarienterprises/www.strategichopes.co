@@ -20,6 +20,10 @@ After the 4 initial sessions, we can choose to continue if you're getting enduri
 
 There are very few instances where we get to the end of a coaching engagement and the client says "Everything is fixed and I am now fine forever". Your career is a long road; coaching is there to get you back on the path that works for you, and maybe give you a few tools and tricks to do right by yourself in the future.
 
+#### What can we talk about?
+
+We can talk about anything you'd like help developing. This is your time. Even if your employer is sponsoring the coaching, our conversations are still completely private -- nothing we talk about makes it back to your employer; I am bound by the [ICF](https://www.coachingfederation.org/) and [EMCC](https://www.emccglobal.org/) codes of ethics which are very specific about client confidentality.
+
 #### Still not sure?
 
 I offer free "chemistry sessions" for folks, to make sure they'd like to work with me. Hit the big orange 'Get in Touch' button and...get in touch. If you're not interested in moving forward after that, there is absolutely no obligation to do so.
