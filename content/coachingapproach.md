@@ -4,7 +4,7 @@ date: 2023-07-21T05:56:05+01:00
 include_footer: true
 ---
 
-> Let's get this out of the way first: Coaching and Mentoring are unregulated industries. Anyone can say they're a life coach, executive coach, or any other kind of coach or mentor. There are professional bodies like [ICF](https://www.coachingfederation/) and [EMCC](https://www.emccglobal.org/) who support professional standards, codes of ethics and have a fairly clear picture of what Coaching in particular is. I'm a member of both, but that's neither here nor there -- the fact remains that seeking coaching for yourself, an employee or a team is very much a question of finding the right person, who's got a similar enough idea of what is needed that you're happy to work together.
+> Let's get this out of the way first: Coaching and Mentoring are unregulated industries. Anyone can say they're a life coach, executive coach, or any other kind of coach or mentor. There are professional bodies like [ICF](https://www.coachingfederation.org/) and [EMCC](https://www.emccglobal.org/) who support professional standards, codes of ethics and have a fairly clear picture of what Coaching in particular is. I'm a member of both, but that's neither here nor there -- the fact remains that seeking coaching for yourself, an employee or a team is very much a question of finding the right person, who's got a similar enough idea of what is needed that you're happy to work together.
 >
 > So, rather than having a "What is Coaching and Mentoring?" page where I try to capture the dry academic version of things, I have this page, where I set out what approach I take.
 
