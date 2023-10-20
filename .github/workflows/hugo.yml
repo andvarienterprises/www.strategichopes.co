@@ -1,3 +1,8 @@
+name: Hugo build-on-change deploying to artifact
+on:
+  push:
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
