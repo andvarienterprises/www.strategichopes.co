@@ -1,5 +1,6 @@
 name: Hugo build-on-change deploying to artifact
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
