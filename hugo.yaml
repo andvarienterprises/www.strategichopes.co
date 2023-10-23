@@ -61,7 +61,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Profile
-    url: https://log.andvari.net/pages/about.html
+    url: /profile
   - title: Services
     url: /services
     sublinks:
