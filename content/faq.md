@@ -4,7 +4,7 @@ date: 2023-10-04
 include_footer: true
 ---
 
-If your question isn't answered here, please don't hesistate to get in touch vie email at 'doc' at this domain.
+If your question isn't answered here, please don't hesistate to get in touch vie email at 'dave' at this domain.
 
 ### What is Coaching? What should I expect?
 

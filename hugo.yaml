@@ -65,6 +65,8 @@ params:
   - title: Services
     url: /services
     sublinks:
+    - title: Overview
+      url: /services
     - title: For Managers
       url: /services/manager
     - title: For Technical Leaders
@@ -131,13 +133,12 @@ params:
     socialmediatitle: Follow 
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/gerrowadat
-      # Icons are from Font Awesome
-      icon: github
-    - link: https://twitter.com/gerrowadat
-      icon: twitter
-    - link: https://mastodon.ie/@gerrowadat
-      icon: mastodon
+      - link: https://github.com/gerrowadat
+        icon: github
+        #- link: https://twitter.com/gerrowadat
+      #icon: twitter
+      #- link: https://mastodon.ie/@gerrowadat
+      #icon: mastodon
     quicklinks:
       column1:
         title: "Info"
