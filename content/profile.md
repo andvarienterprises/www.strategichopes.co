@@ -25,6 +25,8 @@ Without giving you the full resumé, some major achievements have been:
 
 I hold a B.Sc. in Computer Applications from [DCU](https://www.dcu.ie), and a Profesional Diploma in Coaching and Mentoring from [Kingstown College](https://www.kingstowncollege.ie/).
 
+I maintain a more complete profle with publications and so on at my [Personal Log](https://log.andvari.net/pages/about.html).
+
 ### Experience and Interests
 
 Everyone with 20 years or so of experience has a long bullet-point list of impressive-sounding achievements. Now that we've dispensed with that formality, I can set out my background and how that has evolved my [coaching approach](/coachingapproach).
