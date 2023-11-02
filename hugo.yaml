@@ -44,7 +44,7 @@ params:
     # Button text
     buttontext: Learn More
     # Where the main hero button links to
-    buttonlink: "/services"
+    buttonlink: "/services/"
     # Hero image (from static/images/___)
     image: /undraw_creative_thinking.svg
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -61,26 +61,26 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: About Dave
-    url: /profile
+    url: /profile/
   - title: Services
-    url: /services
+    url: /services/
     sublinks:
     - title: Overview
-      url: /services
+      url: /services/
     - title: For Managers
-      url: /services/manager
+      url: /services/manager/
     - title: For Technical Leaders
-      url: /services/tl
+      url: /services/tl/
     - title: For Executives
-      url: /services/exec
+      url: /services/exec/
   - title: FAQ
-    url: /faq
+    url: /faq/
   - title: Info
     sublinks:
     - title: Dave's Coaching Approach
-      url: /coachingapproach
+      url: /coachingapproach/
     - title: What to Expect
-      url: /whattoexpect
+      url: /whattoexpect/
     - title: Brochure (pdf)
       url: /files/daveoc-coaching-brochure-v1.0.pdf
   - title: Get in Touch
@@ -92,17 +92,17 @@ params:
     - title: Management First Steps
       icon: mouse-globe
       text: New, developing, or considering the move?
-      url: /services/manager
+      url: /services/manager/
       buttonText: More
     - title: Tech Leadership Journey
       icon: laptop-cloud
       text: Small teams to Global orgs, support at all stages
-      url: /services/tl
+      url: /services/tl/
       buttonText: More
     - title: Executive Coaching
       icon: plug-cloud
       text: Transformational Change for all leaders
-      url: /services/exec
+      url: /services/exec/
       buttonText: Get started
   section4:
     title: ...but don't take my word for it...
@@ -144,20 +144,20 @@ params:
         title: "Info"
         links:
         - text: Available Services
-          link: /services
+          link: /services/
         - text: Dave's Coaching Approach
-          link: /info/coachingapproach
+          link: /info/coachingapproach/
         - text: FAQ
-          link: /faq
+          link: /faq/
       column2:
         title: "Services"
         links:
         - text: Management Coaching
-          link: /services/manager
+          link: /services/manager/
         - text: Tech Leadership Coaching
-          link: /services/tl
+          link: /services/tl/
         - text: Executive Coaching
-          link: /services/exec
+          link: /services/exec/
       column3:
         title: "About"
         links:
