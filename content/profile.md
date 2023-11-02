@@ -21,7 +21,7 @@ Without giving you the full resumé, some major achievements have been:
  - Produced the Engineering job ladder for SRE at Google - this included descriptions of the various levels and expectations, and guidance on promotions and progression.
  - Drove the evolution of a 100+ person Network Operations team (across 3 offices) to upskill to SRE, including successful job transfers.
  - At Elastic, responsible for multi-cloud deployment of Elastic Cloud product, fully remote SRE and engineering team.
- - VP of Eng. at Twilio, putting in place a strategy for SRE/Priduction Operations with key stakeholders and c-suite.
+ - VP of Eng. at Twilio, putting in place a strategy for SRE/Production Operations with key stakeholders and c-suite.
 
 I hold a B.Sc. in Computer Applications from [DCU](https://www.dcu.ie), and a Profesional Diploma in Coaching and Mentoring from [Kingstown College](https://www.kingstowncollege.ie/).
 
