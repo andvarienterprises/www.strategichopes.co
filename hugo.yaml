@@ -60,7 +60,7 @@ params:
     #  url: https://bulma.io/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Profile
+  - title: About Dave
     url: /profile
   - title: Services
     url: /services
