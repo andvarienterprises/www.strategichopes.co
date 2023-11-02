@@ -73,14 +73,14 @@ params:
       url: /services/tl
     - title: For Executives
       url: /services/exec
+  - title: FAQ
+    url: /faq
   - title: Info
     sublinks:
     - title: Dave's Coaching Approach
       url: /coachingapproach
     - title: What to Expect
       url: /whattoexpect
-    - title: FAQ
-      url: /faq
     - title: Brochure (pdf)
       url: /files/daveoc-coaching-brochure-v1.0.pdf
   - title: Get in Touch
