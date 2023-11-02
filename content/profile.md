@@ -12,7 +12,7 @@ I am an engineering leadership practitioner and coach, based in Dublin, Ireland.
 
 ### Professional Background
 
-I have been an engineering manager, director and vice-president in various positions, working on various products since 2004. The majority of that time was with the Site Reliability team at Google. I was based in Dublin throughout.
+I've been in tech since the late 90s. I have been an engineering manager, director and vice-president in various positions, working on various products since 2004. The majority of that time was with the Site Reliability team at Google. I was based in Dublin throughout.
 
 Without giving you the full resumé, some major achievements have been:
 
