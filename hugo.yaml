@@ -84,6 +84,8 @@ params:
       url: /whattoexpect/
     - title: Brochure (pdf)
       url: /files/daveoc-coaching-brochure-v1.0.pdf
+  - title: Blog
+    url: /blog/
   - title: Get in Touch
     url: "/#section5"
     button: true
