@@ -9,7 +9,7 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 
-googleAnalytics: G-R6C4VD2F2K
+googleAnalytics: "G-R6C4VD2F2K"
 
 # Disables warnings
 disableKinds:
