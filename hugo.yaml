@@ -9,7 +9,8 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+googleAnalytics: G-R6C4VD2F2K
+
 # Disables warnings
 disableKinds:
 - taxonomy
@@ -133,10 +134,10 @@ params:
     socialmediatitle: Follow 
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
+      - link: https://www.linkedin.com/in/gerrowadat
+        icon: linkedin
       - link: https://github.com/gerrowadat
         icon: github
-        #- link: https://twitter.com/gerrowadat
-      #icon: twitter
       #- link: https://mastodon.ie/@gerrowadat
       #icon: mastodon
     quicklinks:
