@@ -45,7 +45,7 @@ params:
     # Button text
     buttontext: Learn More
     # Where the main hero button links to
-    buttonlink: "/services/"
+    buttonlink: "/coachingservices/"
     # Hero image (from static/images/___)
     image: /undraw_creative_thinking.svg
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -64,10 +64,10 @@ params:
   - title: About Dave
     url: /profile/
   - title: Services
-    url: /services/
+    url: /coachingservices/
     sublinks:
     - title: Overview
-      url: /services/
+      url: /coachingservices/
     - title: For Managers
       url: /services/manager/
     - title: For Technical Leaders
