@@ -5,6 +5,10 @@ include_footer: true
 
 What are your Career Aspirations?
 
+<img src="/images/posts/cookie.png" width=50%/>
+
+(Photo by [joyful](https://unsplash.com/@joyfulcaptures?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/dough-with-christmas-tree-and-snowman-cookie-cutters-RuVSrMkjcuQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash))
+
 It seems like the kind of stereotypical "Where do you see youself in five years?" question that elicits everything from curiosity to an eye-roll. Some of us wear these aspirations on our sleeves (for better or worse), and some (myself included!) spend many years of our working life in the "five-year plans are for losers" camp.
 
 There's a balance to be struck, and finding the sweet spot that keeps you motivated and fills in the blanks of what you need to get there takes work and direction you set yourself. This doesn't come naturally to many of us.
