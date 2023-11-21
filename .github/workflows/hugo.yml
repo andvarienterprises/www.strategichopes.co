@@ -7,6 +7,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: 'read'
+      id-token: 'write'
     steps:
     - uses: actions/checkout@v4
     - uses: jakejarvis/hugo-build-action@v0.111.3
@@ -16,7 +19,7 @@ jobs:
       uses: 'google-github-actions/auth@v1'
       with:
         service_account: 'strategichopes-web-writer@awaylab.iam.gserviceaccount.com'
-        credentials_json: ${{secrets.GCLOUD_JSON_KEY}}
+        credentials_json: ${{ secrets.GCLOUD_JSON_KEY }}
     - id: 'upload-folder'
       uses: 'google-github-actions/upload-cloud-storage@v1'
       with:
