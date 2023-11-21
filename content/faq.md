@@ -40,6 +40,8 @@ So, let's put it this way: if you're an individual paying out of pocket (and pay
 
 However, I would expect the amount paid in relation to impact and outcomes to be a rounding error in the People Development budgets of most employers. So, the usual route would be for an employer to sponsor coaching for an employee that needs it. If you need advice on convincing your boss, I have a [1-pager 'brochure'](/files/daveoc-coaching-brochure-v1.0.pdf) that can also serve as a 'convincing your boss or HR department' document.
 
+I've found that many employers also have an individual 'personal development' budget that might cover coaching, and that many folks don't know about until they look.
+
 ### Can I arrange coaching for one or more of my employees, and can we figure something out?
 
 Certainly! Most of my clients are via a 'sponsor' employer, who suggest a coach to folks as a means of working on various things. Working with several people within one company or organisation works out well for me also, as I can become appropriately familiar with how the culture of the org can factor into how people think. So, let's chat -- hit the big orange button and find a time.
