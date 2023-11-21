@@ -1,0 +1,27 @@
+# Steps to set up gcloud bucket.
+
+# Create the bucket for content. The web host pulls this down periodically.
+# Verify you own the domain first, natch.
+
+gcloud storage buckets create gs://web-content.www.strategichopes.co/ \
+  --location=EUROPE-WEST9 \
+  --uniform-bucket-level-access \
+  --no-public-access-prevention
+
+# Create a service account just for updating.
+gcloud iam service-accounts create strategichopes-web-writer
+
+# Give it access to update
+gcloud storage buckets add-iam-policy-binding gs://web-content.www.strategichopes.co/ \
+  --member=serviceAccount:strategichopes-web-writer@${PROJECT}.iam.gserviceaccount.com \
+  --role=roles/storage.legacyBucketOwner
+
+# generate a JSON key because I've yet to bother with the other way.
+gcloud iam service-accounts keys create strategichopes-web-writer.key.json \
+    --key-file-type=json \
+    --iam-account=strategichopes-web-writer@${PROJECT}.iam.gserviceaccount.com
+
+# Flatten the key for use as a github secret.
+cat strategichopes-web-writer.key.json | jq -r tostring > strategichopes-web-writer.key.flat.json
+
+# Now create the github secret, and the rest should be obvious from looking at .github/workflows/hugo.yml in this repo.
