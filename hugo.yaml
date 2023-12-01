@@ -152,6 +152,8 @@ params:
           link: /info/coachingapproach/
         - text: FAQ
           link: /faq/
+        - text: Blog
+          link: /blog/
       column2:
         title: "Services"
         links:

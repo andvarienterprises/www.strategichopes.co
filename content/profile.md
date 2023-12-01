@@ -17,8 +17,8 @@ I've been in tech since the late 90s. I have been an engineering manager, direct
 Without giving you the full resumé, some major achievements have been:
 
  - Engineering Director, responsible for operation of all Google's Storage and Database products (my team was 350+ Engineers/Managers/Directors across 7 offices)
- - Enginering lead for Google Ireland 2016-2020 -- This involved representing the 800+ engineering staff at Google Ireland by sitting on the leadership "Board" for Google Ireland (this was a group of about 12 folks who ran the Dublin site and strategy for Ireland Operations).
- - Produced the Engineering job ladder for SRE at Google - this included descriptions of the various levels and expectations, and guidance on promotions and progression.
+ - Enginering lead for Google Ireland 2016-2020 -- This involved representing the 800+ engineering staff at Google Ireland by sitting on the leadership "Board" for Google Ireland (this was a group of about 12 folks who ran the Dublin site and strategy for Ireland Operations). [Here I am in the Irish Times](https://www.irishtimes.com/business/technology/you-should-automate-yourself-out-of-a-job-every-18-months-1.3552629)
+ - Produced the Engineering job ladder for SRE at Google - this included descriptions of the various levels and expectations, and guidance on promotions and progression for all SREs at Google.
  - Drove the evolution of a 100+ person Network Operations team (across 3 offices) to upskill to SRE, including successful job transfers.
  - At Elastic, responsible for multi-cloud deployment of Elastic Cloud product, fully remote SRE and engineering team.
  - VP of Eng. at Twilio, putting in place a strategy for SRE/Production Operations with key stakeholders and c-suite.
