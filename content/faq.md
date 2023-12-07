@@ -17,7 +17,7 @@ As I mention in [Dave's Coaching Approach](/coachingapproach), there are no real
 However, I believe the following mean that I'll be an effective coach for many folks who might be interested:
 
   - 15+ years in management and executive leadership in tech, taking a coaching approach to both.
-  - Qualified with Distinction in Professional Disploma in Coaching and Mentoring with [Kingstown College](https://www.kingstowncollege.ie/).
+  - Qualified with Distinction in Professional Diploma in Coaching and Mentoring with [Kingstown College](https://www.kingstowncollege.ie/).
   - [ICF](https://www.coachingfederation.org/) and [EMCC](https://www.emccglobal.org/) member.
     - The above Diploma qualification (or similar) is a pre-requisite for membership.
     - I am bound by the codes of ethics of both bodies in my practice.
