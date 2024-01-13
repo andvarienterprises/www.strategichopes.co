@@ -4,7 +4,7 @@ date: 2023-10-04
 include_footer: true
 ---
 
-If your question isn't answered here, please don't hesistate to get in touch vie email at 'dave' at this domain.
+If your question isn't answered here, please don't hesitate to get in touch vie email at 'dave' at this domain.
 
 ### What is Coaching? What should I expect?
 
@@ -28,7 +28,7 @@ Probably. Everyone is able to self-motivate or self-direct to an extent, and man
 
 ### Do I need to be in Ireland?
 
-Not at all! Most of my coaching engagements are managed completely remotely, and I have extensive experience working with odd timezones. If we're setting up sessions, I use [Calendly](https://www.calendly.com/) to manage those, and you can find a time that suits you.
+Not at all! Most of my coaching engagements are managed completely remotely, and I have extensive experience working with odd time zones. If we're setting up sessions, I use [Calendly](https://www.calendly.com/) to manage those, and you can find a time that suits you.
 
 If you do happen to be in Dublin, I am happy to meet in person, either at your office or elsewhere. Somewhere with secure parking for a motorbike and good coffee is a bonus :-)
 

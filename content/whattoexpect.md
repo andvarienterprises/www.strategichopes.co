@@ -14,7 +14,7 @@ If you decide you'd like to work with me, we'll schedule 4 one-hour sessions, ge
 
 These sessions are generally going to be online -- although I am based in Dublin and can show up in person if you have a place you want to meet. 
 
-The session will generally comprise a conversation where you'll do most of the talking; I'm interested in hearing what you're looking to achieve or figure out, and I'm here to help, prod, cajole and gently nudge you toward self-identification of what you could try, and where you'd like to go. I may use one of a few 'tools' I've built up, such as surveys in between sessions, or whiteboarding of ideas in a structured way. For engineers, think of it as a brainstorming session just for you. The outcome is that we end up coming out of each sessions with a lot to think about, and maybe a few things we've promised to each other to do.
+The session will generally comprise a conversation where you'll do most of the talking; I'm interested in hearing what you're looking to achieve or figure out, and I'm here to help, prod, cajole and gently nudge you toward self-identification of what you could try, and where you'd like to go. I may use one of a few 'tools' I've built up, such as surveys in between sessions, or white-boarding of ideas in a structured way. For engineers, think of it as a brainstorming session just for you. The outcome is that we end up coming out of each sessions with a lot to think about, and maybe a few things we've promised to each other to do.
 
 After the 4 initial sessions, we can choose to continue if you're getting enduring value. For the duration of our engagement, I'm also available via email, and will likely pass on content and tools useful to where our conversation is.
 
@@ -22,7 +22,7 @@ There are very few instances where we get to the end of a coaching engagement an
 
 #### What can we talk about?
 
-We can talk about anything you'd like help developing. This is your time. Even if your employer is sponsoring the coaching, our conversations are still completely private -- nothing we talk about makes it back to your employer; I am bound by the [ICF](https://www.coachingfederation.org/) and [EMCC](https://www.emccglobal.org/) codes of ethics which are very specific about client confidentality.
+We can talk about anything you'd like help developing. This is your time. Even if your employer is sponsoring the coaching, our conversations are still completely private -- nothing we talk about makes it back to your employer; I am bound by the [ICF](https://www.coachingfederation.org/) and [EMCC](https://www.emccglobal.org/) codes of ethics which are very specific about client confidentiality.
 
 #### Still not sure?
 

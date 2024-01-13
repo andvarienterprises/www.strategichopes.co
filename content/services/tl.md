@@ -13,7 +13,7 @@ As with any of the engagements around coaching, the conversation is driven by yo
 
   - **Staying Technical**; The right amount of technical, that is. Scratching your hands-on itch while continuing to sponsor others.
   - **Being Giant**; Letting people stand on your shoulders, developing others around you, being comfortable with doing that and tools to maximise these outcomes.
-  - **Leveling Up**; Going from a small team TL to a CTO or Technical VP contains several fairly discrete jobs in between. Figure out where you are, where you want to be.
+  - **Levelling Up**; Going from a small team TL to a CTO or Technical VP contains several fairly discrete jobs in between. Figure out where you are, where you want to be.
   - **Aiming Accurately**; Knowing what you want to keep on doing, and targeting your career outcomes toward that.
 
 ...and so forth. As with any engagement, we start with a blank slate that may not include any of these examples. The goal is to figure out the outcomes you aspire to, why they're important to you, and to move toward them.

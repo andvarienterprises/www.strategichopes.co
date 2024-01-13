@@ -8,7 +8,7 @@ I provide a hybrid Coaching and Mentoring engagement for Engineering leaders (IC
 
 For more on that this means, see [Dave's Coaching Approach](/coachingapproach) and [What to Expect](/whattoexpect). There's also a [FAQ](/faq).
 
-I have over 15 years experience managing, coaching and influencing Technical Leaders, Managers and Executives of all levels, from people new to the tech industry, to CEOs. I maintain a more complete profile on [my personal log](https://log.andvari.net/pages/about.html). My key areas of interest are in development of principled and happy leaders and managers, as well as teams that work well together, often spanning many timezones and points of view.
+I have over 15 years experience managing, coaching and influencing Technical Leaders, Managers and Executives of all levels, from people new to the tech industry, to CEOs. I maintain a more complete profile on [my personal log](https://log.andvari.net/pages/about.html). My key areas of interest are in development of principled and happy leaders and managers, as well as teams that work well together, often spanning many time zones and points of view.
 
 
 ### Individual Engagements
@@ -31,7 +31,7 @@ Team engagements, by their nature, tend to be quite bespoke. It's often better t
 
 I am happy to work with pairs of leaders or smaller groups that represent the leadership of a larger team, and facilitate Adult Conversations about change, or other desirable outcomes. I've developed a number of methods and frameworks for team summits, leadership conversations, and other crucial conversations that may be of help; please <a href="/#section5">reach out</a> and we can schedule an exploratory chat.
 
-I am particularly familiar with teams that work across timezones, and teams that have an operational aspect, be it oncall, incident command or daily operations. I led SRE teams at Google across many timezones (mostly between Dublin and Bay Area, but also NYC, Australia and India).
+I am particularly familiar with teams that work across time zones, and teams that have an operational aspect, be it on-call, incident command or daily operations. I led SRE teams at Google across many time zones (mostly between Dublin and Bay Area, but also NYC, Australia and India).
 
 If you feel like the engagement you'd like might be a little more hands-on (i.e. you'd like to hire me for a while), drop me a line or visit my [consulting website](https://www.andvari.net).
 
