@@ -7,7 +7,7 @@ The journey of the technical leader is probably the most challenging to navigate
 
 This applies to every kind of leader I talk to, but doubly so for technical leaders; the path from team TL to staff engineer to architect to CTO (if that's even what you want) can seem daunting and contain pitfalls and dead ends, because each of those jobs are fairly fundamentally different. 
 
-For technical leaders, the challenege to be an exemplar while balancing other expectations (including ones you impose on yourself) can easily lead you to stagnation or burnout. Thanksfully, you're not alone! This is a jorney many poeple are on, and I've spoken to a not insignificant number of them :-)
+For technical leaders, the challenge to be an exemplar while balancing other expectations (including ones you impose on yourself) can easily lead you to stagnation or burnout. Thankfully, you're not alone! This is a journey many people are on, and I've spoken to a not insignificant number of them :-)
 
 As with any of the engagements around coaching, the conversation is driven by you; we could cover subjects such as:
 

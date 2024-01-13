@@ -7,7 +7,7 @@ Going into management is one of those decisions that is always a very personal j
 
 When I speak to new managers or those considering the move, the primary concern is making sure this move is what they want, and that they're aware of why they want to do it. There's always a certain degree of pressure associated with the move; either directly or though expectation from leadership, or FOMO about turning the role down. Like many career decisions, there's no right answer for everyone, the answer needs to come from you.
 
-**If you're considering management**, this may be someting we can cover in one or two sessions; I can help with working with you through your own values and aspirations, and can give some practical advice on resources, books, articles on this area. I can also provide a neutral voice on what the challenges and rewards of management as a career can be; this is all aimed toward giving you more confidence on the decision you eventually make.
+**If you're considering management**, this may be something we can cover in one or two sessions; I can help with working with you through your own values and aspirations, and can give some practical advice on resources, books, articles on this area. I can also provide a neutral voice on what the challenges and rewards of management as a career can be; this is all aimed toward giving you more confidence on the decision you eventually make.
 
 **If you're a new manager**, the engagement is more in-depth. Guided of course by your own desires in where you want to develop, we can cover subjects including:
 

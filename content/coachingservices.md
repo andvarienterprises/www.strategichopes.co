@@ -11,7 +11,7 @@ For more on that this means, see [Dave's Coaching Approach](/coachingapproach) a
 I have over 15 years experience managing, coaching and influencing Technical Leaders, Managers and Executives of all levels, from people new to the tech industry, to CEOs. I maintain a more complete profile on [my personal log](https://log.andvari.net/pages/about.html). My key areas of interest are in development of principled and happy leaders and managers, as well as teams that work well together, often spanning many timezones and points of view.
 
 
-### Individual Enagements
+### Individual Engagements
 
 Some examples of Coaching Engagements I'm available for include:
 
