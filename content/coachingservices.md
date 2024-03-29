@@ -33,7 +33,7 @@ I am happy to work with pairs of leaders or smaller groups that represent the le
 
 I am particularly familiar with teams that work across time zones, and teams that have an operational aspect, be it on-call, incident command or daily operations. I led SRE teams at Google across many time zones (mostly between Dublin and Bay Area, but also NYC, Australia and India).
 
-If you feel like the engagement you'd like might be a little more hands-on (i.e. you'd like to hire me for a while), drop me a line or visit my [consulting website](https://www.andvari.net).
+If you feel like the engagement you'd like might be a little more hands-on (i.e. you'd like to hire me for a while), drop me a line or visit my [consulting website](https://www.coservant.systems/).
 
 </td>
 <td>
