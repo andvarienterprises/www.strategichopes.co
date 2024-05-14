@@ -84,6 +84,8 @@ params:
       url: /whattoexpect/
     - title: Brochure (pdf)
       url: /files/daveoc-coaching-brochure-v1.0.pdf
+    - title: Client Testimonials
+      url: /testimonials/
   - title: Blog
     url: /blog/
   - title: Get in Touch
@@ -152,6 +154,8 @@ params:
           link: /info/coachingapproach/
         - text: FAQ
           link: /faq/
+        - text: Client Testimonials
+          link: /testimonials/
         - text: Blog
           link: /blog/
       column2:
