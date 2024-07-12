@@ -3,6 +3,8 @@ title: Blog
 include_footer: true
 ---
 
+[I'm Not Happy](/posts/nothappy/) - 2024-07-12 - *Feedback on feedback for managers delivering feedback.*
+
 [How to Disappoint People](/posts/disappointment/) - 2024-03-29 - *Thoughts on being consistently and predictably disappointing*
 
 [Software Misadventures](/posts/software-misadventures/) - 2024-01-25 - *My guest spot on the Software Misadventures Podcast*
