@@ -149,9 +149,9 @@ params:
         title: "Info"
         links:
         - text: Available Services
-          link: /services/
+          link: /coachingservices/
         - text: Dave's Coaching Approach
-          link: /info/coachingapproach/
+          link: /coachingapproach/
         - text: FAQ
           link: /faq/
         - text: Client Testimonials
